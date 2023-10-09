@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>KML/GPX File Upload</title>
+</head>
+<body>
+<h1>Upload KML/GPX File</h1>
+<form action="process.php" method="post" enctype="multipart/form-data">
+    <label for="file">Select a KML/GPX file:</label>
+    <input type="file" name="file" id="file" accept=".kml, .gpx" required>
+    <br>
+    <input type="submit" name="submit" value="Upload and Process">
+</form>
+</body>
+</html>

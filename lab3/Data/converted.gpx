@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk>
+    <name>KML to GPX Conversion</name>
+    <trkseg><trkpt lat="48.91808067105649" lon="24.71808015024834"><ele>0</ele></trkpt><trkpt lat="48.92031398348193" lon="24.70801372848271"><ele>0</ele></trkpt><trkpt lat="48.92494279745448" lon="24.70963444519788"><ele>0</ele></trkpt></trkseg>
+  </trk>
+</gpx>

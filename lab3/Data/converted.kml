@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <name>GPX to KML Conversion</name><Placemark>
+                                <Point><coordinates>24.71808015024834,48.91808067105649,0</coordinates></Point>
+                                </Placemark><Placemark>
+                                <Point><coordinates>24.70801372848271,48.92031398348193,0</coordinates></Point>
+                                </Placemark><Placemark>
+                                <Point><coordinates>24.70963444519788,48.92494279745448,0</coordinates></Point>
+                                </Placemark></Document>
+</kml>
